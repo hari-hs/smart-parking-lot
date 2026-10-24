@@ -1,0 +1,48 @@
+# Build output
+target/
+out/
+bin/
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+logs/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Maven
+dependency-reduced-pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# Environment and local config
+.env
+*.local
+application-local.*
+
+# Temp files
+*.tmp
+*.swp
+*~
